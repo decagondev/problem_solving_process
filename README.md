@@ -21,4 +21,15 @@ Explanation: There are 4 good pairs (0,3), (0,4), (3,4), (2,5) 0-indexed.
 ### Video
 [![First Pass Solution](https://img.youtube.com/vi/vAYxbu6AkH0/0.jpg)](https://youtu.be/vAYxbu6AkH0)
 
+### Example 2:
+```
+Input: nums = [1,1,1,1]
+Output: 6
+Explanation: Each pair in the array are good.
+```
 
+### Diagram
+![Second Pass](./assets/pass2.PNG)
+
+### Video
+[![Second Pass Solution](https://img.youtube.com/vi/0JZYGtt3ZT0/0.jpg)](https://youtu.be/0JZYGtt3ZT0)
