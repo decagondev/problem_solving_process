@@ -16,4 +16,9 @@ Output: 4
 Explanation: There are 4 good pairs (0,3), (0,4), (3,4), (2,5) 0-indexed.
 ```
 
-- [First Pass Solution](https://youtu.be/vAYxbu6AkH0)
+### Diagram
+![First Pass](./assets/pass1.PNG)
+### Video
+[![First Pass Solution](https://img.youtube.com/vi/vAYxbu6AkH0/0.jpg)](https://youtu.be/vAYxbu6AkH0)
+
+
