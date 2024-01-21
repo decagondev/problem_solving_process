@@ -1,4 +1,4 @@
-# problem_solving_process
+# Problem Solving Process
 This repository will have the code from my YouTube videos about problem solving
 
 ## Number of Good Pairs
